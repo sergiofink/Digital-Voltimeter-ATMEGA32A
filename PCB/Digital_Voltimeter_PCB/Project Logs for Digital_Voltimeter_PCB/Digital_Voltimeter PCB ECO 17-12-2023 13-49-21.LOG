@@ -1,0 +1,216 @@
+Added Component: Designator=C1(CAPRR1500W60L1820T520H1540)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ECWFA2J104JQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPRB250W50L550T350H600)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FA16X8R2A334KRU00/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FA16X8R2A334KRU00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/FA16X8R2A334KRU00/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FA16X8R2A334KRU00/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC1608X90N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "0603YC104KAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC1608X90N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "0603YC104KAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC1608X90N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "0603YC104KAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC1608X90N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "0603YC104KAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=DS1(LCD_RC1602B-BIW-CSV)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC1602B-BIW-CSV/Raystar/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Raystar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC1602B-BIW-CSV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC1602B-BIW-CSV/Raystar/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(TE_640454-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/640454-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "640454-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/640454-2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/640454-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(TE_640454-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/640454-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "640454-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/640454-2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/640454-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC3115X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=3188341"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=3188341"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRGCQ1206J10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3115 TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRGCQ1206J10K/TE%20Connectivity/view-part/3188341/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC3126X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRGCQ1210J2K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(VREG_LM7805MP/NOPB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM7805MP/NOPB/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM7805MP/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-223-4 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/LM7805MP/NOPB/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM7805MP/NOPB/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(DIP254P1524X482-40)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ATMEGA32A-PU/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATMEGA32A-PU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PDIP-40 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ATMEGA32A-PU/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ATMEGA32A-PU/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VR1(TRIM_3362P-1-253LF)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/3362P-1-253LF/Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3362P-1-253LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3362P-1 Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/3362P-1-253LF/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3362P-1-253LF/Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADC_INPUT Pin=C5-1
+Added Pin To Net: NetName=ADC_INPUT Pin=R1-2
+Added Pin To Net: NetName=ADC_INPUT Pin=U2-40
+Added Pin To Net: NetName=ADC_INPUT Pin=VR1-2
+Added Net: Name=ADC_INPUT
+Added Pin To Net: NetName=D0 Pin=DS1-7
+Added Pin To Net: NetName=D0 Pin=U2-1
+Added Net: Name=D0
+Added Pin To Net: NetName=D1 Pin=DS1-8
+Added Pin To Net: NetName=D1 Pin=U2-2
+Added Net: Name=D1
+Added Pin To Net: NetName=D2 Pin=DS1-9
+Added Pin To Net: NetName=D2 Pin=U2-3
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=DS1-10
+Added Pin To Net: NetName=D3 Pin=U2-4
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=DS1-11
+Added Pin To Net: NetName=D4 Pin=U2-5
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=DS1-12
+Added Pin To Net: NetName=D5 Pin=U2-6
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=DS1-13
+Added Pin To Net: NetName=D6 Pin=U2-7
+Added Net: Name=D6
+Added Pin To Net: NetName=D7 Pin=DS1-14
+Added Pin To Net: NetName=D7 Pin=U2-8
+Added Net: Name=D7
+Added Pin To Net: NetName=E Pin=DS1-6
+Added Pin To Net: NetName=E Pin=U2-19
+Added Net: Name=E
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=DS1-1
+Added Pin To Net: NetName=GND Pin=DS1-3
+Added Pin To Net: NetName=GND Pin=DS1-5
+Added Pin To Net: NetName=GND Pin=DS1-15
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U2-11
+Added Pin To Net: NetName=GND Pin=U2-31
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=U2-32
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=C6-1
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=POS_VOLTIMETER Pin=J2-1
+Added Pin To Net: NetName=POS_VOLTIMETER Pin=VR1-3
+Added Net: Name=POS_VOLTIMETER
+Added Pin To Net: NetName=RS Pin=DS1-4
+Added Pin To Net: NetName=RS Pin=U2-20
+Added Net: Name=RS
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C4-2
+Added Pin To Net: NetName=VCC Pin=DS1-2
+Added Pin To Net: NetName=VCC Pin=U1-3
+Added Pin To Net: NetName=VCC Pin=U2-9
+Added Pin To Net: NetName=VCC Pin=U2-10
+Added Pin To Net: NetName=VCC Pin=U2-30
+Added Net: Name=VCC
+Added Pin To Net: NetName=VIN Pin=C2-1
+Added Pin To Net: NetName=VIN Pin=J1-1
+Added Pin To Net: NetName=VIN Pin=U1-1
+Added Net: Name=VIN
+Added Class: Name=Digital_Voltimeter
+Added Room: Name=Digital_Voltimeter

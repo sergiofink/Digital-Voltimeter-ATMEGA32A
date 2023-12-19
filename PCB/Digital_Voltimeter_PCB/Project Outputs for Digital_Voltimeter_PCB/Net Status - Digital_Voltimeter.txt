@@ -1,0 +1,26 @@
+Net Status Report
+Filename     : C:\Sergio_Fink\CursosUdemy\AVR_Projects\Digital_Voltimeter_Project\PCB\Digital_Voltimeter_PCB\Digital_Voltimeter.PcbDoc
+Date         : 18/12/2023
+Time         : 18:26:05
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    ADC_INPUT, Signal Layers Only, 1911.627mils
+    D0, Signal Layers Only, 816.414mils
+    D1, Signal Layers Only, 816.414mils
+    D2, Signal Layers Only, 816.414mils
+    D3, Signal Layers Only, 816.414mils
+    D4, Signal Layers Only, 816.414mils
+    D5, Signal Layers Only, 816.414mils
+    D6, Signal Layers Only, 816.414mils
+    D7, Signal Layers Only, 816.414mils
+    E, Signal Layers Only, 2255.478mils
+    GND, Signal Layers Only, 9599.766mils
+    NetC3_2, Signal Layers Only, 181.001mils
+    NetC5_2, Signal Layers Only, 150.16mils
+    NetR1_1, Signal Layers Only, 167.238mils
+    POS_VOLTIMETER, Signal Layers Only, 1471.822mils
+    RS, Signal Layers Only, 2268.66mils
+    VCC, Signal Layers Only, 5172.427mils
+    VIN, Signal Layers Only, 1366.336mils
+count : 18

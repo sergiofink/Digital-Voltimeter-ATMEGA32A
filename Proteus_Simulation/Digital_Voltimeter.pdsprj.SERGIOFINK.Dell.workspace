@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <WORKSPACE>
  <FRAME activewindow="0">
-  <PLACEMENT>2c0000000200000003000000ffffffffffffffffffffffffffffffffe60000000200000036050000c8020000</PLACEMENT>
+  <PLACEMENT>2c0000000200000003000000ffffffffffffffffffffffffffffffffd8000000bc0000002805000082030000</PLACEMENT>
   <WINDOW type="default" module="ISIS"/>
  </FRAME>
  <MODULE name="VSMDEBUG">
